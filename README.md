@@ -25,7 +25,6 @@ Buy a domain from any registrar you prefer:
 
 * [Namecheap](https://www.namecheap.com/)
 * [GoDaddy](https://www.godaddy.com/)
-* [Freenom](https://www.freenom.com/) (offers free domains)
 
 After purchasing, **do not close the tab**, you'll need to update nameservers later.
 
