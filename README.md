@@ -122,12 +122,6 @@ You can check its status from the Cloudflare dashboard.
 3. Download and extract the WordPress ZIP
 4. Move the extracted contents to the `htdocs` folder in KSWeb:
 
-```
-/sdcard/htdocs/
-```
-
-You can use any file manager for this.
-
 ---
 
 ### 🧰 Step 9: Setup phpMyAdmin and MySQL
@@ -136,7 +130,7 @@ You can use any file manager for this.
 2. Navigate to:
 
 ```
-http://localhost:8080/phpmyadmin
+http://localhost:with your port 
 ```
 
 3. Login with:
@@ -154,7 +148,7 @@ http://localhost:8080/phpmyadmin
 
    * **Domain**: `yourdomain.com`
    * **Service**: `HTTP`
-   * **URL**: `http://localhost:8080`
+   * **URL**: `http://localhost:with your port`
 3. Save
 
 Now your domain should point to your Android-hosted WordPress site!
@@ -172,7 +166,7 @@ https://yourdomain.com
 2. Follow the WordPress installation wizard
 3. Enter:
 
-   * **DB Name**: `wordpress`
+   * **DB Name**: `your created name `
    * **User**: `root`
    * **Password**: *(blank)*
 4. Complete installation and start building your site 🎉
